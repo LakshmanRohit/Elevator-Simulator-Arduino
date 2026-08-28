@@ -14,7 +14,7 @@ A basic version of this project can be simulated on Wokwi using the following li
 
 https://wokwi.com/projects/449139345680807937
 
-Demo Video: https://youtu.be/DhCoBNz7S84
+Demo Video: https://youtu.be/tC6eLUG-Aj4?si=mDfqlgWqHTO5naup
 
 Connections Diagram:
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/f6b576c0-3e5f-4b48-8ea7-b35d9a1b3792" />
